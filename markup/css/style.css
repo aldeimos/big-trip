@@ -696,6 +696,8 @@ main {
   margin-right: 15px; }
 
 .event__selected-offers {
+  display: flex;
+  flex-direction: column;
   width: 230px;
   padding: 0;
   margin: 0;
